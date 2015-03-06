@@ -9,9 +9,13 @@ namespace Actividad3
 		{	
 			return new ContentPage { 
 				Content = new Label {
-					Text = "Hello, Forms!",
+					Text = "Este es el texto de un Label!",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
 					HorizontalOptions = LayoutOptions.CenterAndExpand,
+					XAlign = TextAlignment.End, 
+					YAlign = TextAlignment.End, 
+					BackgroundColor = Color.Gray, 
+					TextColor = Color.Green
 				},
 			};
 		}
