@@ -21,18 +21,18 @@ namespace Actividad5
 				{
 					new Label
 					{
-						Text = "Blue",
-						TextColor = Color.Blue
+						Text = "Amarillo",
+						TextColor = Color.Yellow
 					},
 					new Label
 					{
-						Text = "Silver",
-						TextColor = Color.Silver
+						Text = "Verde",
+						TextColor = Color.Green
 					},
 					new Label
 					{
-						Text = "Black",
-						TextColor = Color.Black
+						Text = "Rojo",
+						TextColor = Color.Red
 					}
 				}
 			};
