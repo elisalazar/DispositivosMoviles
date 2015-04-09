@@ -9,6 +9,7 @@ namespace Actividad7
 		{	
 			return new NavigationPage (new Pagina1());
 		}
+
 	}
 }
 
